@@ -1,0 +1,14 @@
+1. Google fonts were used, internet connection is needed so the fonts will load properly
+All CSS files are stored in the CSS folder.
+All images are stored in the ../images directory
+Snapshots of the screens are saved in the Screenshots_of_the_pages directory.
+
+
+--  All Eight(8) Forms attributes were used.
+--  Images were used in the 
+--  Tables was Created
+--  List was Created Ordered and Unordered
+--  External CSS files were used in the Projects
+
+
+Pushed the Changes to github
