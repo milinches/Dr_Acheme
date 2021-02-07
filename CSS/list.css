@@ -138,14 +138,16 @@ nav{
 }
 
 .ordered-list ol {
-    text-align: center;
+    margin-left: 22vw;
+    /* text-align: center; */
     padding: 20px;
 }
 
 .ordered-list ol li {
-    /* display: inline-block; */
-    padding: 10px;
+    /* display: inline-flex; */
+    padding: 20px;
     font-family: 'Rubik', 'sans-serif';
+    /* text-align: center; */
 }
 
 footer{
